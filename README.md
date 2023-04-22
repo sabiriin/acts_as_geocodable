@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Fix ONNX GPU inference bug (#6840)

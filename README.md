@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+added badges (#45)

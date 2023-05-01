@@ -1,1 +1,1 @@
-ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
+Fix xyxyxyxyn calculation, swap axis (#8249)

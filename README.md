@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)

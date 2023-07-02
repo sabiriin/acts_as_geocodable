@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+Updated SQL Query Plot Code (#8120)

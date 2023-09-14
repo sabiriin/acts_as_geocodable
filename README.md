@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)

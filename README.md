@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)

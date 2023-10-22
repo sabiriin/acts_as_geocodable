@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Improve Coral Edge TPU guide (#8160)

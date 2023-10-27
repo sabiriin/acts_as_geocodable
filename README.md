@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+ultralytics 8.1.31 NCNN and CLIP updates (#9235)

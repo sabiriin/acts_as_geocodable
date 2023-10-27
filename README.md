@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info

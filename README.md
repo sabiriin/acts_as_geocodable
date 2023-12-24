@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)

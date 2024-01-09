@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)

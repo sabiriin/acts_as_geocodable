@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)

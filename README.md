@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Allow Annotator PIL.Image inputs (#8397)

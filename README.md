@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)

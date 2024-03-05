@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Update Twitter icon in Docs (#7711)

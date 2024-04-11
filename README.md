@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs

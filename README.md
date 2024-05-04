@@ -1,1 +1,1 @@
-fix non-coco val
+Fix RTDETR generate anchor grid out of boundary (#7247)

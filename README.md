@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)

@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)

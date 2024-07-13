@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)

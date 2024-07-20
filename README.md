@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+ultralytics 8.1.5 add OBB Tracking support (#7731)

@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Add KaTeX support + updates to YOLOv9 model page (#8531)

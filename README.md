@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Optimize function calls to method calls (#8507)

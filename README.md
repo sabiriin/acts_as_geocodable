@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)

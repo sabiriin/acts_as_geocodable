@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Add type hinting to explorer.py (#7388)

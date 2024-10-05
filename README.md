@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Fix OpenVINO links (#7930)

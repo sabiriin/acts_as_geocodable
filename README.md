@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Fix Yolo 8.0.206 scale bug (#7821)
